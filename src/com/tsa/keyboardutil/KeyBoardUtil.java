@@ -23,9 +23,9 @@ public class KeyBoardUtil {
 		Robot robot=new Robot();
 		robot.keyPress(KeyEvent.VK_CONTROL);
 		robot.keyPress(KeyEvent.VK_V);
-		Thread.sleep(3000);
 		robot.keyRelease(KeyEvent.VK_CONTROL);
 		robot.keyRelease(KeyEvent.VK_V);
+		Thread.sleep(1000);
 	}
 
 }

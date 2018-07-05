@@ -37,18 +37,38 @@ public class MyTest {
 	
   @Test
   public void test() throws Exception {
-	  //hello world
-	  Boolean result=null;
+	  //跳转到tsa模块
 	  tsaModule.getTsaModuleBtn("tsaplatform.tsaModule.tsaModuleBtn").click();
-	  TsaVerifyFailed tvf=VerifyUnprotectedTsaFile.execute("tsa.xls.pdf", "取证接口测试报告.docx.tsa", tsaModule);
-	  result=CheckTsaFailedPage.verifyResult(tvf);
-	  if(result==true) {
-		  System.out.println("验证通过,flag的值是："+result);
-	  }else {
-		  System.out.println("验证没通过,flag的值是："+result);
-	  }
-	  tsaModule=CheckTsaFailedPage.goBack(tvf);
-	  Assert.assertTrue(result);
+	  Boolean result=null;
+	  
+	  for(int i=1;i<7;i++) {
+		//获取测试数据
+		TsaVerifySuccess tvs=null;
+		ExcelUtil.setExcelFile("C:\\Users\\unitrust\\Desktop\\selenium\\测试数据.xlsx", "测试数据");
+		String sourceFileName=ExcelUtil.getCellData(i, 1);
+		String tsaFileName=ExcelUtil.getCellData(i, 2);
+		String applyTime=ExcelUtil.getCellData(i, 3);
+		String dataFinger=ExcelUtil.getCellData(i, 4);
+		if(i==1) {
+			tvs=VerifyProtectedTsaFile.executeWithLocatePath(sourceFileName, tsaFileName, tsaModule);
+		}else {
+			tvs=VerifyProtectedTsaFile.execute(sourceFileName, tsaFileName, tsaModule);
+		}
+			 
+		//对测试结果进行判断并写入到数据文件中
+		result=CheckTsaSuccessPage.verifyResult(applyTime, dataFinger, tvs);
+		if(result==true) {
+			System.out.println("i的值是:"+i+"测试成功，请查看测试数据文件是否写入测试结果");
+			ExcelUtil.setCellData(i, 5, "测试成功");
+		}else {
+			System.out.println("i的值是："+i+"测试失败，请查看测试数据文件是否写入测试结果");
+			ExcelUtil.setCellData(i, 5, "测试失败，请排查原因");
+		}
+			 
+		//返回到tsa模块
+		tvs.getGoBackBtn("tsaplatform.tsaverifysuccess.backbtn").click();
+	}
+  
   }
   @BeforeClass
   public void beforeClass() {

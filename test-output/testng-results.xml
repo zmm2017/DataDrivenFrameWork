@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="46938" started-at="2018-07-02T08:50:09Z" finished-at="2018-07-02T08:50:56Z">
+  <suite name="Default suite" duration-ms="99049" started-at="2018-07-05T09:19:22Z" finished-at="2018-07-05T09:21:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="46938" started-at="2018-07-02T08:50:09Z" finished-at="2018-07-02T08:50:56Z">
+    <test name="Default test" duration-ms="99049" started-at="2018-07-05T09:19:22Z" finished-at="2018-07-05T09:21:01Z">
       <class name="com.tsa.util.MyTest">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.tsa.util.MyTest@7e2d773b]" name="beforeClass" is-config="true" duration-ms="5164" started-at="2018-07-02T08:50:09Z" finished-at="2018-07-02T08:50:14Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.tsa.util.MyTest@7e2d773b]" name="beforeClass" is-config="true" duration-ms="4386" started-at="2018-07-05T09:19:22Z" finished-at="2018-07-05T09:19:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.tsa.util.MyTest@7e2d773b]" name="test" duration-ms="41755" started-at="2018-07-02T08:50:14Z" finished-at="2018-07-02T08:50:56Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.tsa.util.MyTest@7e2d773b]" name="test" duration-ms="94642" started-at="2018-07-05T09:19:26Z" finished-at="2018-07-05T09:21:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.tsa.util.MyTest@7e2d773b]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-07-02T08:50:56Z" finished-at="2018-07-02T08:50:56Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.tsa.util.MyTest@7e2d773b]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-07-05T09:21:01Z" finished-at="2018-07-05T09:21:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
