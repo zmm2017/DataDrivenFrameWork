@@ -37,7 +37,7 @@ public class MyTest {
 	
   @Test
   public void test() throws Exception {
-	  //hello java
+	  //hello world
 	  Boolean result=null;
 	  tsaModule.getTsaModuleBtn("tsaplatform.tsaModule.tsaModuleBtn").click();
 	  TsaVerifyFailed tvf=VerifyUnprotectedTsaFile.execute("tsa.xls.pdf", "取证接口测试报告.docx.tsa", tsaModule);
