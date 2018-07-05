@@ -1,0 +1,624 @@
+[INFO ] 2018-06-19 11:21:43,765 method:com.tsa.util.TestMapObject.main(TestMapObject.java:24)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-19 11:21:43,767 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-19 11:21:47,073 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第三步：访问指定的URL
+[INFO ] 2018-06-19 11:21:47,553 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-19 11:21:47,556 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-19 11:21:48,184 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-19 11:21:48,357 method:com.tsa.util.TestMapObject.main(TestMapObject.java:44)
+
+
+
+[INFO ] 2018-06-19 11:29:30,918 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-19 11:29:30,921 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-19 11:29:34,233 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-19 11:29:35,553 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-19 11:29:35,555 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-19 11:29:36,503 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-19 11:29:36,699 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+
+
+
+[INFO ] 2018-06-20 08:04:57,599 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-20 08:04:57,602 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-20 08:05:00,947 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-20 08:05:01,411 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-20 08:05:01,414 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-20 08:05:02,586 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-20 08:13:46,225 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-20 08:13:46,228 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-20 08:13:49,497 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-20 08:13:49,956 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-20 08:13:49,957 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-20 08:13:50,583 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-20 08:13:50,805 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+
+
+
+[INFO ] 2018-06-20 08:21:10,558 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-20 08:21:10,561 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-20 08:21:13,797 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-20 08:21:14,288 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-20 08:21:14,290 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-20 08:21:14,910 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-20 08:21:15,212 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+
+
+
+[INFO ] 2018-06-20 08:24:51,489 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-20 08:24:51,491 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-20 08:24:54,756 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-20 08:24:55,217 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-20 08:24:55,219 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-20 08:24:55,796 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-20 08:24:55,998 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+
+
+
+[INFO ] 2018-06-21 07:55:48,509 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 07:55:48,512 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 07:55:51,822 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 07:55:52,316 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 07:55:52,319 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 07:55:53,155 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 07:55:53,353 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+
+
+
+[INFO ] 2018-06-21 08:00:46,526 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:00:46,528 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:00:49,733 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:00:50,245 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:00:50,248 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:00:50,817 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:00:51,014 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+
+
+
+[INFO ] 2018-06-21 08:03:12,390 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:03:12,392 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:03:15,618 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:03:16,130 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:03:16,132 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:03:16,724 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:03:16,970 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+
+
+
+[INFO ] 2018-06-21 08:04:30,847 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:04:30,849 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:04:34,125 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:04:34,631 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:04:34,634 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:04:35,176 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:04:35,411 method:com.tsa.util.TestMapObject.main(TestMapObject.java:48)
+
+
+
+[INFO ] 2018-06-21 08:09:58,260 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:09:58,263 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:10:01,499 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:10:02,053 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:10:02,055 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:10:02,652 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:10:02,925 method:com.tsa.util.TestMapObject.main(TestMapObject.java:48)
+
+
+
+[INFO ] 2018-06-21 08:10:44,671 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:10:44,673 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:10:47,852 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:10:48,374 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:10:48,376 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:10:48,998 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:10:49,276 method:com.tsa.util.TestMapObject.main(TestMapObject.java:49)
+
+
+
+[INFO ] 2018-06-21 08:17:02,806 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:17:02,809 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:17:07,703 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:17:08,638 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:17:08,641 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:17:09,315 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:17:09,675 method:com.tsa.util.TestMapObject.main(TestMapObject.java:49)
+
+
+
+[INFO ] 2018-06-21 08:19:56,025 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:19:56,027 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:19:59,325 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:19:59,788 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:19:59,790 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:20:00,400 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:20:46,353 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:20:46,356 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:20:49,747 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:20:50,247 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:20:50,248 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:20:50,858 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:23:22,634 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:23:22,637 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:23:25,930 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:23:26,406 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:23:26,408 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:23:27,052 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:28:04,995 method:com.tsa.util.TestMapObject.main(TestMapObject.java:27)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:28:04,998 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:28:08,323 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:28:10,732 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:28:10,733 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:28:12,701 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:29:39,998 method:com.tsa.util.TestMapObject.main(TestMapObject.java:28)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:29:40,001 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:29:45,350 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:29:47,909 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:29:47,911 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:29:50,088 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:36:35,371 method:com.tsa.util.TestMapObject.main(TestMapObject.java:28)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:36:35,374 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:36:38,607 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:36:42,354 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:36:42,372 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第五步：实例化pdf验证成功的页面对象
+[INFO ] 2018-06-21 08:36:44,543 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:36:44,734 method:com.tsa.util.TestMapObject.main(TestMapObject.java:50)
+
+
+
+[INFO ] 2018-06-21 08:48:01,202 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:48:01,204 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:48:04,496 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:48:06,306 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:48:06,312 method:com.tsa.util.TestMapObject.main(TestMapObject.java:42)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-21 08:48:06,314 method:com.tsa.util.TestMapObject.main(TestMapObject.java:45)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:52:44,946 method:com.tsa.util.TestMapObject.main(TestMapObject.java:30)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:52:44,948 method:com.tsa.util.TestMapObject.main(TestMapObject.java:33)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:52:48,215 method:com.tsa.util.TestMapObject.main(TestMapObject.java:36)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:52:50,687 method:com.tsa.util.TestMapObject.main(TestMapObject.java:39)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:52:54,092 method:com.tsa.util.TestMapObject.main(TestMapObject.java:44)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-21 08:52:54,094 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:52:55,692 method:com.tsa.util.TestMapObject.main(TestMapObject.java:54)
+
+
+
+[INFO ] 2018-06-21 08:55:37,477 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 08:55:37,479 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 08:55:40,707 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 08:55:42,891 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 08:55:42,893 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-21 08:55:54,242 method:com.tsa.util.TestMapObject.main(TestMapObject.java:46)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 08:55:55,843 method:com.tsa.util.TestMapObject.main(TestMapObject.java:53)
+
+
+
+[INFO ] 2018-06-21 14:17:25,896 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-21 14:17:25,898 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-21 14:17:29,209 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-21 14:17:29,839 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-21 14:17:29,843 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-21 14:17:31,413 method:com.tsa.util.TestMapObject.main(TestMapObject.java:46)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-21 14:17:32,098 method:com.tsa.util.TestMapObject.main(TestMapObject.java:53)
+
+
+
+[INFO ] 2018-06-22 08:19:42,770 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:19:42,772 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:19:46,091 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:19:46,697 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:19:46,699 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:19:47,842 method:com.tsa.util.TestMapObject.main(TestMapObject.java:46)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:19:47,934 method:com.tsa.util.TestMapObject.main(TestMapObject.java:53)
+
+
+
+[INFO ] 2018-06-22 08:20:03,934 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:20:03,936 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:20:07,207 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:20:07,708 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:20:07,711 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:20:09,073 method:com.tsa.util.TestMapObject.main(TestMapObject.java:46)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:20:09,139 method:com.tsa.util.TestMapObject.main(TestMapObject.java:53)
+
+
+
+[INFO ] 2018-06-22 08:20:52,666 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:20:52,668 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:20:55,977 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:20:56,471 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:20:56,473 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:20:57,597 method:com.tsa.util.TestMapObject.main(TestMapObject.java:46)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:20:57,912 method:com.tsa.util.TestMapObject.main(TestMapObject.java:54)
+
+
+
+[INFO ] 2018-06-22 08:22:26,624 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:22:26,626 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:22:29,915 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:22:30,436 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:22:30,438 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:22:31,761 method:com.tsa.util.TestMapObject.main(TestMapObject.java:46)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:22:32,164 method:com.tsa.util.TestMapObject.main(TestMapObject.java:55)
+
+
+
+[INFO ] 2018-06-22 08:23:42,995 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:23:42,997 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:23:46,237 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:23:46,742 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:23:46,744 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:23:48,079 method:com.tsa.util.TestMapObject.main(TestMapObject.java:46)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:23:48,704 method:com.tsa.util.TestMapObject.main(TestMapObject.java:56)
+
+
+
+[INFO ] 2018-06-22 08:28:57,723 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:28:57,725 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:29:00,948 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:29:01,441 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:29:01,444 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:29:02,076 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:30:35,768 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:30:35,770 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:30:39,022 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:30:39,550 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:30:39,553 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:30:40,154 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:35:04,510 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:35:04,512 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:35:07,779 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:35:08,251 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:35:08,252 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:35:08,816 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:35:16,502 method:com.tsa.util.TestMapObject.main(TestMapObject.java:57)
+
+
+
+[INFO ] 2018-06-22 08:37:40,572 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:37:40,574 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:37:43,890 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:37:44,439 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:37:44,440 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:37:45,032 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:40:15,219 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:40:15,222 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:40:18,471 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:40:18,975 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:40:18,977 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:40:19,573 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:40:23,209 method:com.tsa.util.TestMapObject.main(TestMapObject.java:57)
+
+
+
+[INFO ] 2018-06-22 08:40:31,818 method:com.tsa.util.TestMapObject.main(TestMapObject.java:31)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:40:31,821 method:com.tsa.util.TestMapObject.main(TestMapObject.java:34)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:40:35,080 method:com.tsa.util.TestMapObject.main(TestMapObject.java:37)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:40:35,559 method:com.tsa.util.TestMapObject.main(TestMapObject.java:40)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:40:35,560 method:com.tsa.util.TestMapObject.main(TestMapObject.java:43)
+第五步：实例化pdf验证失败的页面对象
+[INFO ] 2018-06-22 08:40:36,201 method:com.tsa.util.TestMapObject.main(TestMapObject.java:47)
+第六步：对页面的内容进行断言
+[INFO ] 2018-06-22 08:40:37,869 method:com.tsa.util.TestMapObject.main(TestMapObject.java:57)
+
+
+
+[INFO ] 2018-06-22 08:51:48,870 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:51:48,872 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:51:52,179 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:51:52,676 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:54:26,016 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:54:26,019 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:54:29,285 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:54:29,799 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:55:13,865 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:55:13,867 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:55:17,174 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:55:17,626 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:55:46,044 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:55:46,047 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:55:49,429 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:55:49,928 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:57:27,052 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:57:27,054 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:57:30,310 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:57:30,840 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:58:19,549 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:58:19,551 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:58:22,826 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:58:23,372 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:58:52,216 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:58:52,219 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:58:55,556 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:58:56,026 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 08:59:27,598 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 08:59:27,600 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 08:59:30,885 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 08:59:31,345 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 09:00:03,793 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 09:00:03,795 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 09:00:07,113 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 09:00:16,341 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 09:00:38,465 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 09:00:38,467 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 09:00:41,687 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 09:00:42,143 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 09:01:36,852 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 09:01:36,855 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 09:01:40,206 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 09:01:40,692 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 09:01:58,006 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 09:01:58,009 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 09:02:01,289 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 09:02:01,785 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 09:02:30,247 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 09:02:30,250 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 09:02:33,492 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 09:02:33,951 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 16:51:44,549 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 16:51:44,553 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 16:51:48,101 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 16:51:48,742 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
+[INFO ] 2018-06-22 16:52:26,197 method:com.tsa.util.TestMapObject.main(TestMapObject.java:32)
+第一步：为webdriver设置环境变量
+[INFO ] 2018-06-22 16:52:26,200 method:com.tsa.util.TestMapObject.main(TestMapObject.java:35)
+第二步：实例化一个chrome webdriver对象
+[INFO ] 2018-06-22 16:52:29,549 method:com.tsa.util.TestMapObject.main(TestMapObject.java:38)
+第三步：访问指定的URL
+[INFO ] 2018-06-22 16:52:31,338 method:com.tsa.util.TestMapObject.main(TestMapObject.java:41)
+第四步：实例化一个pdf module对象
